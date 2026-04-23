@@ -5,7 +5,7 @@ for i in list1:
     print(i)
 
 
-list2=["fruits","apples","banana","grapes"]
+list2=["fruits","apples","banana","grapes","orange"]
 
 
 for i in list2:
